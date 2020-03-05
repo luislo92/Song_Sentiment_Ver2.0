@@ -40,5 +40,5 @@ Using song lyrics be able to tag songs based on the meaning of the lyrics withou
 - Use LDA Topic Modeling and Text Rank to create a taxonomy of the topics of each lyric
 - Use Word2Vec to vectorize the words in the lyrics
 - Using the vectorized words, calculate cosine similarity of each lyric to a topic in the taxonamy, highest similarity wins
-- Manually tag each lytic with one of the topics
+- Manually tag each lyric with one of the topics
 - Calculate accuracy of the word2vec model vs the manual labels
